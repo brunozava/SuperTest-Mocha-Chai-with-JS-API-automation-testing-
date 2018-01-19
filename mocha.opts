@@ -1,0 +1,2 @@
+--require tests/helpers
+--slow 10000
