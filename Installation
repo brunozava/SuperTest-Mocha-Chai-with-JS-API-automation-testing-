@@ -1,0 +1,6 @@
+npm -init -> Create a node project
+node -v -> Check the node version
+npm -v -> Check the npm version
+npm install supertest --save-dev
+npm install chai--save-dev
+npm install mocha -g
